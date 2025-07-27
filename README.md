@@ -48,5 +48,5 @@ https://aarandia1234.github.io/mini-search-bot/
 
 ## 👤 Created by
 
-**Aarav R Shetty**  
+**Aarav R Shetty and Tushar Vivek **  
 Mini Search Bot — Inspired by the simplicity of Delegate AI, built with originality ✨

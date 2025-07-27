@@ -46,4 +46,4 @@ This project is hosted using GitHub Pages.
 ## 👤 Created by
 
 **Aarav R Shetty**  
-Mini Search Bot — Inspired by the simplicity of (Delegate AI)[https://github.com/npsboy/Delegate-AI], built with originality ✨
+Mini Search Bot — Inspired by the simplicity of [Delegate AI](https://github.com/npsboy/Delegate-AI), built with originality ✨
